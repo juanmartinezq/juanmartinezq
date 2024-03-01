@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## ⚡️ Skills
+
+I'm proficient at:
+
+- **Languages**: Python, R
+- **Data Science**: Pandas, Numpy, Matplotlib, Seaborn, Plotly, Dash.
+- **GIS**: geopandas, folium.
+- **Databases**: PostgreSQL, MySQL
+
 <!--
 **juanmartinezq/juanmartinezq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
