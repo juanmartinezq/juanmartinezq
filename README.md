@@ -6,7 +6,7 @@ I'm proficient at:
 
 - **Languages**: Python, R
 - **Data Science**: Pandas, Numpy, Matplotlib, Seaborn, Plotly, Dash.
-- **GIS**: geopandas, folium.
+- **GIS**: geopandas, folium. QGIS
 - **Databases**: PostgreSQL, MySQL
 
 <!--
