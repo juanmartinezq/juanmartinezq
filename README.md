@@ -7,7 +7,7 @@ I'm proficient at:
 - **Languages**: Python, R
 - **Data Science**: Pandas, Numpy, Matplotlib, Seaborn, Plotly, Dash.
 - **GIS**: geopandas, folium, QGIS
-- **Databases**: PostgreSQL, Snowflake, MySQL
+- **Databases**: PostgreSQL, MySQL
 
 <!--
 **juanmartinezq/juanmartinezq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
